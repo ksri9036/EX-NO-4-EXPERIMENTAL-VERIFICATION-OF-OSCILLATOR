@@ -33,7 +33,10 @@ RC PHASE SHIFT OSCILLATOR
 ---
 ## MODEL GRAPH
 <img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
+
+---
 ## DESIGN
+
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
 C = 0.01F, fo = 200 Hz.
