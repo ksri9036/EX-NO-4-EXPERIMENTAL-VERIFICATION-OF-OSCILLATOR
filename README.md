@@ -88,6 +88,7 @@ WIEN BRIDGE OSCILLATOR
 ---
 ## MODEL GRAPH
 <img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
+
 ---
 ## DESIGN
 ## WIEN BRIDGE OSCILLATOR
